@@ -655,3 +655,7 @@
 		#footer a {
 			color: inherit;
 		}
+		/*estilo servicios*/
+		#footer b {
+			color: #F00;
+		}
